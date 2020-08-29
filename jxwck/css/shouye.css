@@ -1,0 +1,481 @@
+.topheader {
+    width: 100%;
+    background: #f2f2f2;
+    border-bottom: 1px solid #e5e5e5;
+    position: relative;
+    z-index: 980;
+    min-width: 1000px;
+}
+.tophead{
+    width: 1200px;
+    height: 26px;
+    line-height: 26px;
+    margin: 0 auto;
+    position: relative;
+}
+.topheader1 {
+    width: 370px;
+    overflow: hidden;
+    height: 26px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.topheader1a {
+    width: 370px;
+    overflow: hidden;
+    height: 26px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #999;
+}
+
+.topheader1a p {
+    display: block;
+    float: left;
+}
+
+.topheader1a a {
+    margin-right: 6px;
+    display: block;
+    float: left;
+    line-height: 26px;
+    color: #999;
+    cursor: pointer;
+    float: left;
+}
+
+.topheader2{
+    height: 26px;
+    float: right;
+    FONT-SIZE: 12px;
+}
+.topheader2 ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.topheader2 li {
+    float: left;
+    height: 26px;
+    float: left;
+    padding: 0 5px;
+    position: relative;
+}
+
+.topheader2 .wode{
+    z-index: 205;
+    padding: 0 4px 0 7px;
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+}
+.wode2{
+    width: 72px;
+    border: 1px solid #e5e5e5;
+    border-top: 0;
+    position: absolute;
+    top: 27px;
+    left: -1px;
+    z-index: 206;
+    background: #fff;
+    padding: 5px 0;
+    display: none;
+}
+.wode>a{
+    height: 26px;
+    color: #999;
+}
+.wode2 a{
+    width: 72px;
+    text-align: center;
+    display: inline-block;
+    float: left;
+    color: #999;
+}
+.wode2 a:hover{
+    color: #cc0001;
+}
+
+.ecoyou a{
+    color: #c00;
+    text-decoration: none;
+}
+.tgouwu a{
+    display: inline-block;
+    color: #999;
+}
+
+.top4 a{
+    height: 16px;
+    line-height: 16px;
+    padding: 0 3px;
+    color: #c00;
+    margin: 5px 5px 0 0;
+    display: inline-block;
+}
+
+.top5 a{
+    display: inline-block;
+    color: #999;
+}
+
+.top6 a{
+    height: 16px;
+    line-height: 16px;
+    padding: 0 3px;
+    background-color: #cc0001;
+    color: #fff;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    margin: 5px 5px 0 0;
+}
+.top6a{
+    display: none;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    position: absolute;
+    top: 26px;
+    left: 2px;
+    display: none;
+}
+.top6a img{
+    width: 80px;
+    height: 80px;
+    border: 0;
+}
+.top7{
+    z-index: 205;
+    padding: 0 4px 0 7px;
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+}
+.top7a1{
+    width: 10px;
+    height: 4px;
+    float: left;
+    margin-top: 14px;
+    background: url(http://img.zbird.cn/ww3/pubheaderfooter/icon_drop.png) no-repeat left top;
+}
+.top7q{
+    border-left: 1px solid #ededed;
+    border-right: 1px solid #ededed;
+    background: #fff;
+    height: 27px;
+    margin-bottom: -1px;
+}
+.top7w{
+    width: 205px;
+    border-left: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    position: absolute;
+    top: 27px;
+    left: -1px;
+    z-index: 206;
+    background: #fff;
+    display: none;
+    padding: 5px 0 0 0;
+}
+.top7a a{
+    display: inline-block;
+    color: #999;
+}
+
+.top7b,.top7c,.top7d{
+    width: 165px;
+    padding: 6px 20px 8px;
+    overflow: hidden;
+    border-bottom: 1px solid #ededed;
+}
+.top7b1{
+    line-height: 28px;
+}
+.top7b1 h3,.top7c1 h3,.top7d1 h3{
+    font-size: 14px;
+    font-family: "微软雅黑";
+    color: #333;
+    font-weight: normal;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.top7b2,.top7c2,.top7d2{
+    width: 180px;
+    line-height: 24px;
+}
+.top7b2 a,.top7c2 a,.top7d2 a{
+    height: 24px;
+    text-align: left;
+    width: 48px;
+    margin-right: 10px;
+    overflow: hidden;
+    display: inline-block;
+    color: #999;
+}
+.top7c{
+    background: #f9f9f9;
+}
+.top7e{
+    background: #f9f9f9;
+    width: 165px;
+    padding: 6px 20px 8px;
+    overflow: hidden;
+    border-bottom: 1px solid #ededed;
+}
+.top7e p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.top7e p span{
+    display: inline-block;
+    color: #999;
+}
+.top7e p b{
+    font-weight: bold
+}
+
+.top8{
+    z-index: 205;
+    padding: 0 4px 0 7px;
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+}
+.top8a a{
+    display: inline-block;
+    color: #999;
+}
+.top8b{
+    border: 1px solid #e5e5e5;
+    border-top: 0;
+    position: absolute;
+    top: 27px;
+    left: -1px;
+    z-index: 206;
+    background: #fff;
+    padding: 5px 0;
+    display: none;
+    width: 89px;
+}
+
+
+.top8b a{
+    width: 72px;
+    text-align: center;
+    display: inline-block;
+    color: #999;
+}
+
+.top8b a:hover{
+    color: #cc0001;
+}
+.top7w a:hover{
+    color: #cc0001;
+}
+
+.top9{
+    width: 144px;
+    padding: 0 0 0 7px;
+    height: 26px;
+    float: left;
+    padding: 0 5px;
+    position: relative;
+}
+.top9 span{
+    display: inline-block;
+    color: #999;
+}
+.top9 b{
+    color: #c00;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+/* 搜索框 */
+.focus{
+    display: block;
+    width: 100%;
+    height: 90px;
+}
+
+.minheader{
+    background: rgb(255, 255, 255);
+    min-width: 1200px;
+    width: 100%;
+    color: #666;
+}
+.min{
+    width: 1200px;
+    height: 125px;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.minlog{
+    width: 257px;
+    height: 65px;
+    float: left;
+    display: inline-block;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.minlog-l{
+    width: 137px;
+    height: 65px;
+    margin-right: 10px;
+    display: inline-block;
+    float: left;
+    text-align: left;
+}
+.minlog-l a{
+    display: inline-block;
+    width: 137px;
+    height: 65px;
+    COLOR: #666;
+    TEXT-DECORATION: none;
+    cursor: pointer;
+    text-align: left;
+}
+.minlog-l img{
+    vertical-align: middle;
+    border: 0;
+    width: 137px;
+    height: 65px;
+    cursor: pointer;
+}
+
+.minlog-r{
+    float: left;
+    text-align: left;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.minlog-r a{
+    COLOR: #666;
+    TEXT-DECORATION: none;
+    cursor: pointer;
+}
+.minlog-r img{
+    vertical-align: middle;
+    border: 0;
+    width: 110px;
+    height: 65px;
+    cursor: pointer;
+    text-align: left;
+    display: block;
+}
+ 
+
+.minsou{
+    width: 540px;
+    float: left;
+    display: inline-block;
+    margin: 32px 0 0 20px;
+    color: #666;
+    padding: 0;
+}
+.minsou1{
+    height: 32px;
+    border: 3px solid #c00;
+    position: relative;
+    z-index: 222;
+}
+input{
+    vertical-align: middle;
+    outline: 0;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+#wd{
+    width: 439px;
+    height: 22px;
+    line-height: 22px;
+    padding: 5px;
+    border: 0 none;
+    color: #666;
+    float: left;
+}
+.minsou1a{
+    width: 85px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-family: 微软雅黑;
+    float: right;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    background: rgb(204, 0, 0);
+    box-sizing: border-box;
+    align-items: flex-start;
+}
+
+.minsou2{
+    width: 540px;
+    height: 18px;
+    overflow: hidden;
+    padding-top: 5px;
+}
+.minsou2 p{
+    height: 18px;
+    line-height: 18px;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    left: -8px;
+    z-index: 1;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.minsou2 p a{
+    float: left;
+    display: inline-block;
+    color: #999;
+    padding: 0 8px;
+    height: 18px;
+    position: relative;
+    text-decoration: none;
+}
+.minsou3{
+    width: 363px;
+    float: right;
+    height: 64px;
+    margin: 33px 0 0 0;
+    display: inline-block;
+    background: url(../img/soulog_r.png) no-repeat top left;
+}
+
+.minsou3 a{
+    display: inline-block;
+    width: 106px;
+    height: 43px;
+    margin-left: 15px;
+    text-decoration: none;
+}
